@@ -1,6 +1,6 @@
 # New Mexico County Map
 
-![map](https://raw.githubusercontent.com/hodgesmr/2009_to_2015_household_income/master/img/map_growth.png)
+![map](https://raw.githubusercontent.com/hodgesmr/new_mexico_county_map/master/img/map.png)
 
 This is an [interactive map](http://matthodges.com/new_mexico_county_map/) that can serve as a template for visualizing county-level data within New Mexico.
 
